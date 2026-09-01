@@ -5,3 +5,6 @@ Using sensor materials and scalable prototype designs to advance research on int
 This GitHub contains the code for some movement tests done early in research, but unfortunately, since the research is ongoing and will be made into a paper soon, I'm unable to share a majority of the code.
 
 After publication, images and more details will be added.
+
+
+![Finray 1](image-url)
