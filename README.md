@@ -7,4 +7,4 @@ This GitHub contains the code for some movement tests done early in research, bu
 After publication, images and more details will be added.
 
 
-![Finray 1](image-url)
+![Finray 1]([image-url](https://github.com/S-D-M-admin/UCL_Research_EIT_PostDoc_Internship/blob/main/EIT%201.png))
