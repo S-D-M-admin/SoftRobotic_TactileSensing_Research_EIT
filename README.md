@@ -6,9 +6,9 @@ This GitHub contains the code for some movement tests done early in research, bu
 
 After publication, images and more details will be added.
 
-![image 3](https://github.com/S-D-M-admin/SoftRobotic_TactileSensing_Research_EIT/blob/main/EIT%20images/Image7.png)
-![image 2](https://github.com/S-D-M-admin/SoftRobotic_TactileSensing_Research_EIT/blob/main/EIT%20images/Image4.png)
-![image 1](https://github.com/S-D-M-admin/SoftRobotic_TactileSensing_Research_EIT/blob/main/EIT%20images/Image6.png)
+![image 1](https://github.com/S-D-M-admin/SoftRobotic_TactileSensing_Research_EIT/blob/main/EIT%20images/Image7.png)
+![image 2](https://github.com/S-D-M-admin/SoftRobotic_TactileSensing_Research_EIT/blob/main/Finray%201.png)
+![image 3](https://github.com/S-D-M-admin/SoftRobotic_TactileSensing_Research_EIT/blob/main/EIT%20images/Image6.png)
 ![image 4](https://github.com/S-D-M-admin/SoftRobotic_TactileSensing_Research_EIT/blob/main/EIT%20images/Image3.png)
 
 
