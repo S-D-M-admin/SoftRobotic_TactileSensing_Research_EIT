@@ -8,6 +8,7 @@ After publication, images and more details will be added.
 
 ![Finray 2](https://github.com/S-D-M-admin/UCL_Research_EIT_PostDoc_Internship/blob/main/Finray%202.png)
 ![Finray 1](https://github.com/S-D-M-admin/UCL_Research_EIT_PostDoc_Internship/blob/main/Finray%201.png)
+![image 1](https://github.com/S-D-M-admin/SoftRobotic_TactileSensing_Research_EIT/blob/main/EIT%20images/Image6.png)
 
 
 ![EIT 1](https://github.com/S-D-M-admin/UCL_Research_EIT_PostDoc_Internship/blob/main/EIT%201.png)
